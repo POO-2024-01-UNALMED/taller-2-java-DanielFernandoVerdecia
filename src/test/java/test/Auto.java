@@ -14,7 +14,7 @@ public class Auto {
     public int cantidadCreados;
 	
 	public int cantidadAsientos() {
-		return asientos.length;
+		return this.asientos.length;
 	}
 	
 	
