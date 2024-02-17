@@ -10,7 +10,7 @@ public class Asiento {
 	public void cambiarColor(String color) {
 	   
 	   
-	   String[] colores = {"rojo","verde", "amarillo", "negro", "blanco"}
+	   String[] colores = {"rojo","verde", "amarillo", "negro", "blanco"};
 	   
 	   
 	   if ( Arrays.asList(colores).contains(color) ) {
